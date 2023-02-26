@@ -17,4 +17,4 @@ een overzicht van alle rapporten is [HIER](Iteratierapporten\overzicht.md) te vi
 ### **Proces**
 Gedurende het semester zijn er verschillende meetings tussen groepsgenoten en leraren. notities hiervan zijn [HIER](Proces\Meetings.md) te vinden.
 
-Alle ontvangen feedback, als groep of individu, is [HIER](Proces\Feedback.md) te vinden.
+Alle ontvangen feedback, als groep of individu, is [HIER](Proces/Feedback.md) te vinden.
