@@ -8,7 +8,7 @@ Deze repo bevalt iteratie rapporten, documenten, feedback en meeting notities va
 ## **Inhoudsopgaven**
 
 ### **Leeruitkomsten**
-Informatie over de leeruitkomsten vind je [Hier](Leeruitkomsten.md).
+Informatie over de leeruitkomsten vind je [Hier](Leeruikomsten.md).
 
 ### **Iteratie rapport**
 Per iteratie rapport is er een los MD bestand gemaakt,<br/>
