@@ -3,6 +3,7 @@
 Feedback als groep en individueel 
 
 ---
+
 ## 09-02-2023
 Vanavond als groep kleine pitch gedaan van project. 
 Feedback was positief en project kan levensvatbaar zijn,
