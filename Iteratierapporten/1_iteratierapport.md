@@ -1,7 +1,7 @@
 # Iteratie rapport 1
 
-Voor alle leeruitkomsten heb ik beginnen als start punt gezet.\
-Dit omdat ik van mening ben dat je als semester 7 bent begonnen je in de voorgaande semester minimaal dit niveau zou hebben moeten bereikt.
+Hieronder een overzicht van mij voortgang in de eerste iteratie.\
+Sommige onderwerpen zijn hierin nog niet van toepassing en staan daarom op 'Undefined'.
 
 |                    | Advanced | Proficient | Beginning | Orienting | Undefined |
 |--------------------|:--------:|:----------:|:---------:|:---------:|:---------:|
