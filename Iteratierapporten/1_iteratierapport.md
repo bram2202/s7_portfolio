@@ -18,7 +18,9 @@ Sommige onderwerpen zijn hierin nog niet van toepassing en staan daarom op 'Unde
 # Verklaarring
 
 ## 1. Analysis
-Omdat dit een nieuw onderwerp voor mij is ben ik mijzelf eerst gaan verdiepen in wat AI en Machine Learning inhoudt, zie [8.  Learning ability](#8-learning-ability).\
+Omdat dit een nieuw onderwerp voor mij is ben ik mijzelf eerst gaan verdiepen in wat AI en Machine Learning inhoudt\
+zie [8.  Learning ability](#8-learning-ability).
+
 Vervolgens ben ik gaan kijken hoe dit aansluit op ons project en hoe ik hiermee een hoofdvraag met deelvragen kan opstellen. 
 
 ### Volgde stap
@@ -37,10 +39,12 @@ Niet aangeraakt deze iteratie.
 
 ### Jira - Project management
 Om inzichtelijk te houden hoe het project verloopt hebben we een binnen Jira een scrum board opgezet voor het gehele project.\
-Ik heb voor elke van mijn sub vrage een Epic aangemaakt, hieronder komen de taken en onderzoeken te hangen die gedaan moeten worden voor de desbetreffende sub vraag.\
-De epic en planning is gemaakt op de informatie die we nu hebben en zullen nog veranderen namaten het project vordert en ik nieuwe inzichten krijg.
+Ik heb voor elke van mijn sub vragen een Epic aangemaakt, hieronder komen de taken en onderzoeken te hangen die gedaan moeten worden voor de desbetreffende sub vraag.\
+De epic en planning is gemaakt op de informatie die we nu hebben en zullen nog veranderen naarmate het project vordert en ik nieuwe inzichten krijg.
 
 [Screenshot roadmap](../Bestanden/jira_epic_28-02.png)
+
+[Jira](https://prophecy1.atlassian.net/jira/software/projects/AA/boards/2/roadmap) (Account nodig)
 
 ### Github - version control 
 Voor het bijhouden van mijn iteratie rapporten (zoals deze) heb ik Github gekozen.\
@@ -49,7 +53,7 @@ Het opslaan van bewijslast is hierin ook geen probleem.
 
 Ook voor de code die in het project gemaakt gaat worden heb is er gekozen voor Github, voor dezelfde reden, makkelijk deelbaar en leesbaar voor iedereen.
 
-Gitub: [S7HaMachineLearning](https://github.com/S7HaMachineLearning)
+Gitub: [S7HaMachineLearning](https://github.com/S7HaMachineLearning/documentation)
 
 ### Volgde stap
 Om de stap naar 'Proficient' te kunnen maken is er eerst code nodig waarop ik unit tests kan maken.\
@@ -92,7 +96,7 @@ Om de stap naar 'Proficient' te maken moet ik meer presenteren en documentatie o
 
 ## 8. Learning ability
 
-Om beter bekent te worden met de basis en begrippen omtrent AI en Machine Learning heb ik een korte cursus gedaan die deze onderwerpen behandeld.\
+Om beter bekent te worden met de basis en begrippen omtrent AI en Machine Learning heb ik een korte cursus gedaan die deze onderwerpen behandeld.
 
 Curses IA [LinkedIn certificaat](../Bestanden/CertificateOfCompletion_ML_BVD.pdf)
 
