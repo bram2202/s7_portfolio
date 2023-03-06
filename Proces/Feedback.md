@@ -47,3 +47,33 @@ Field research is erg belangrijk, waarom ligt ander project al 2 jaar stil?
 
 Roadmap laat goed de scheiding tussen werkzaamheden van groepsleden zien
 We hebben helder en duidelijk wat het project inhoud.
+
+---
+
+## 06-03-2023
+
+Feedback op [iteratie rapport 1](../Iteratierapporten/1_iteratierapport.md)
+
+conceptueel klopt het rapport.\
+tabel en volgde stappen maakt het duidelijk
+
+### 1. Analyse
+voor volgde stap requirement document maken, backlog in Jira vullen met de taken.
+
+### 5. Management
+Jira goed ingericht.
+
+### 6. Judgment
+Afhankelijk van onderzoek, komt later
+
+vragen: strategie en methode, onderbouwen.
+per sub vraag onderzoeks stappen maken, per stap methode een strategie noteren.
+
+### 7. Communication
+goed, aanwezig, betrokken, feedback vragend.\
+voor volgde stap: presentatie geven of iets degelijks.
+
+### 8. Learning
+
+prima, goed voorbeeld dat je bezig bent met learning.
+laat zien hoe je met feedback omgaat, (reflectie toepassen op feedback)
