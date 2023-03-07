@@ -52,7 +52,7 @@ We hebben helder en duidelijk wat het project inhoud.
 
 ## 06-03-2023
 
-Feedback op [iteratie rapport 1](../Iteratierapporten/1_iteratierapport.md)
+Directe feedback op [iteratie rapport 1](../Iteratierapporten/1_iteratierapport.md)
 
 conceptueel klopt het rapport.\
 tabel en volgde stappen maakt het duidelijk
@@ -77,3 +77,27 @@ voor volgde stap: presentatie geven of iets degelijks.
 
 prima, goed voorbeeld dat je bezig bent met learning.
 laat zien hoe je met feedback omgaat, (reflectie toepassen op feedback)
+
+### Outcomes
+#### 1. Analysis
+'_De 1e aanzet is er . Denk al eens na over validatie._'
+
+#### 5. Management
+'_Zowel procesmatig (Jira) als codetechnisch (Git) de zaken al netjes ingericht._'
+
+#### 6. Judgement
+'_Denk eens aan het koppelen van methodes aan de deelvragen en de onderbouwing daarbij._'
+
+#### 7. Communication
+'_Erg betrokken, aanwezig en feedback-gericht._'
+
+#### 8. Learning ability
+'_Is een echt groeiend leerdoel. Je bent echt al serieus bezig en neemt initiatief. Op deze manier gaat dit helemaal goed komen._'
+
+
+### Actiepunten
+
+- Validatie door middel van een requirements document, hieruit tickets maken, en deze in de komende sprints oppakken om zo tot een doel te geraken.
+- Een tabel maken waarin per subvraag beschreven wordt welke onderzoeksmethodes gebruikt gaat worden samen met een onderbouwing 
+
+---
