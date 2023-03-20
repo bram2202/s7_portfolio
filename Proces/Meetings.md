@@ -23,3 +23,6 @@ Vanavond presentatie geven en feedback ontvangen
 Presentatie van pitch verliep goed, zie [feedback](Feedback.md#27-02-2023).
 
 Vervolgstap is om projectplan verder uit te breiden en af te ronden.
+
+## 13-03-2023 Groep
+- Hoofdvragen herschreven naar design challenge
