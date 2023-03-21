@@ -101,3 +101,19 @@ laat zien hoe je met feedback omgaat, (reflectie toepassen op feedback)
 - Een tabel maken waarin per subvraag beschreven wordt welke onderzoeksmethodes gebruikt gaat worden samen met een onderbouwing 
 
 ---
+
+## 20-03-2023 - Feedback Design Challenge presentatie
+
+## Hoofdvraag
+- Goede opzet.
+- target, makkelijk om te valideren
+
+## Subvraag 2
+- opschonen -> transformeren
+- zodat de dataset binnen HA uniform kan worden.
+
+## Reflectie
+- Er zit een verbetering in de onderzoeksvragen.
+- In de subvraag kan er een ander woordkeuzen maken en flexibelere omgaan met de design challenge om zo de onderzoeksvragen leesbaarder te maken.
+- Verder moeten er niet te lang stil blijven staan bij de onderzoeksvragen, hier kan altijd feedback op gegeven worden maar goed is goed genoeg.
+- Het is goed om regelmatig feedback vragen aan de klas door middel van een presentatie dit lever een hoop feedback op.
