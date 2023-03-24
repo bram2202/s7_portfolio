@@ -32,7 +32,6 @@ Tijdens het onderzoek naar de GUI voor machine learning [LINK](https://github.co
 
 ### Volgde stap
 Het opstellen van een advies rapport voor de verschillende frameworks en technieken.
-zie [Jira tickets](../Bestanden/jira-tickets-21-03-2023.png).
 
 ## 3. Design
 Niet aangeraakt deze iteratie.
