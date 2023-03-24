@@ -28,6 +28,7 @@ Vervolgstap is om projectplan verder uit te breiden en af te ronden.
 - Hoofdvragen herschreven naar design challenge
 
 ## 20-03-2023 
+
 ### Online (20-03-2023)
 Overdag hebben we de laatste hand gelegd aan het design challenge en het project plan,\
 om deze savonds te kunnen tonen aan de klas en docenten.

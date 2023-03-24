@@ -77,5 +77,8 @@ Ook heb ik door middel van een 'Available product analysis' een onderzoek gedaan
 
 Om nog beter bekent te geraken met machine learning heb ik een korte curses gevolgd op kaggle.com over machine learning, [Certificaat](../Bestanden/Bram_van_Deventer-Intro_to_Machine_Learning.png).
 
+Bij de bespreking van de laatste iteratie van het [projectplan](https://github.com/S7HaMachineLearning/documentation) hebben we goede feedback gekregen van de docenten.
+Ik heb op deze feedback gereflecteerd en hieruit zijn wat conclusies gekomen die verwerkt moeten worden, zie [Feedback - 23-23-2023](../Proces/Feedback.md#23-23-2023---groeps-feedback-op-project-rapport)
+
 ### Volgde stap
 Om de stap naar 'Proficient' te kunnen maken moet ik ander onderzoeksmethodes gebruiken en beschrijven.

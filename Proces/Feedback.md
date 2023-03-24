@@ -117,3 +117,81 @@ laat zien hoe je met feedback omgaat, (reflectie toepassen op feedback)
 - In de subvraag kan er een ander woordkeuzen maken en flexibelere omgaan met de design challenge om zo de onderzoeksvragen leesbaarder te maken.
 - Verder moeten er niet te lang stil blijven staan bij de onderzoeksvragen, hier kan altijd feedback op gegeven worden maar goed is goed genoeg.
 - Het is goed om regelmatig feedback vragen aan de klas door middel van een presentatie dit lever een hoop feedback op.
+
+---
+
+## 23-23-2023 - Groeps feedback op project rapport
+
+### conclusie
+Het is belangrijk om onze kwaliteits bewaken te gaan omschrijven.
+Dit is essentieel voor ieder project.
+
+daarnaast is een risico analyse belangrijk om te doen.
+er kan altijd iets mis gaan, ook in een kleinschalig project.
+
+Het is goed om een aanleiding te omschrijving,
+dit geeft meer context voor het projectplan en het probleem wat we willen oplossen.
+
+We kunnen hoofdstukken wat verder uitbreiden, het is niet nodig maar wel goed om hiermee te oefenen.
+
+De product breakdown moet nog geplaatst worden in een visuele representatie. 
+en alle omschrijvingen in een tabel zetten
+
+### 1.0
+
+context  --> organisatie  
+naar (4) project management 
+
+organisatie gaat over bedrijf waar je stage loopt / werkt 
+voor dit project dus niet belangrijk (weg laten)
+
+aanleiding in context zetten
+
+### 1.2
+doel: hoe gaan we het probleem oplossen.
+"automations aanmaken is moeilijk"
+
+afwijken van template mag, pas aan naar wat duidelijker is voor de lezer
+
+### 1.3
+- uit scope: is goed
+- in scope: denk na over wat je wilt opleveren
+
+out of scope: denk na over wat je niet gaat doen 
+weerspiegelt technische readynes level , bv prototype, qa prod
+
+omschrijf om aannames te voorkomen
+
+### 1.4
+- onderbouwing waarom scrum? alternatieve onderzoeken.
+- wat ga je doen, scrum rituele en artifacts(backlogs, epics) (hoe gaan we zien dat dit scrum is)
+
+### 1.5
+Onderzoeksvragen, goed is goed
+we nemen het serieus, om het goed te doen is waardevol voor het afstuderen.
+
+### 1.6
+idee: denk naar over alles wat je gaat opleveren.
+voorbeelden:
+- nevenproducten
+- documentatie
+- CI/CD
+- onderzoek en onderzoeksresultaten
+
+laat zien dat we er serieus over nagedacht hebben
+tabel toevoegen met omschrijvingen ipv alles in schema proppen
+
+### 4.1
+Kwaliteits bewaking
+- testen is er een van
+- wat helpt om in dit project wat er opgeleverd wordt te valideren
+- wat is de kwaliteit van de code (code review / pull request)
+- specificeren welke tools we gebruiken om kwaliteit te leveren
+
+### 5.2
+- Dingen die mis kunnen gaan in het project noteren.
+- Invullen om mee te oefenen (wat voorbeelden).
+- Escalatie, wat te doen als het mis gaat / Hoe om te gaan met bepaalde situaties.
+
+
+
