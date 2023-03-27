@@ -194,4 +194,27 @@ Kwaliteits bewaking
 - Escalatie, wat te doen als het mis gaat / Hoe om te gaan met bepaalde situaties.
 
 
+---
 
+## 27-03-2023 - Feedback op Iteratie rapport 2
+
+### 1. Analyse
+requiremtens document is essentieel voor analyse,
+met functonals en non-functionals.
+Dit oppakken, concrete invulling
+
+### 7. Communication
+presenteren over inhoudelijke resultaten
+inhoudelijke presentatie.
+
+### 5. Management
+Unit test komen laster pas, zodra er code is.
+
+### 8. learning
+Available product analyse mist iets, analyse uitwerking is de volgde stap.
+
+Voor analyse moet eerst duidelijk zijn "Wat heb ik nodig".
+hoe kan het resultaat eerlijk is (van bepaalde kwaliteit)
+
+### Feedback vanuit de docent
+`Geef nu even de focus aan de analyse en werk dan e.e.a. verder uit in het ontwerp en implementatie.`
