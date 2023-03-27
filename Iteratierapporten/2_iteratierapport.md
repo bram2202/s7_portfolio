@@ -1,6 +1,6 @@
 # Iteratie rapport 2
 
-Hieronder een overzicht van mij voortgang in de tweede iteratie.\
+Hieronder een overzicht van mijn voortgang in de tweede iteratie.\
 Sommige onderwerpen zijn hierin nog niet van toepassing en staan daarom op 'Undefined'.\
 De `-` in tabel geeft het niveau in de vorige iteratie aan, een maakt daarmee de groei zichtbaar.
 
@@ -16,21 +16,21 @@ De `-` in tabel geeft het niveau in de vorige iteratie aan, een maakt daarmee de
 | 8 Learning ability |          |            |     x     |     -     |           |
 
 ---
-# Verklaarring
+# Verklaring
 
 ## 1. Analysis
-deze iteratie heb ik mijn onderzoek vraag omgezet in 'design challenge' [Link](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeksvragen/design%20challenge.md)
+Deze iteratie heb ik mijn onderzoek vraag omgezet in 'design challenge' [Link](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeksvragen/design%20challenge.md)
 
 Meer onderzoek gedaan naar de achterliggende technieken van zowel machine learning als GUI om zo een beter inzicht wat er bestaat en wat van toepassing kan zijn in dit project.\
 Zie [8.  Learning ability](#8-learning-ability).
 
-### Volgde stap
+### Volgende stap
 Met de kennis die ik hier opgedaan heb kan ik een requirement document maken.
 
 ## 2. Advice
 Tijdens het onderzoek naar de GUI voor machine learning [LINK](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bram/2.%20Onderzoek%20-%20machine%20learning%20GUI.md) kwam ik er achter dat de keuze voor front-end frameworks vrij breed is.
 
-### Volgde stap
+### Volgende stap
 Het opstellen van een advies rapport voor de verschillende frameworks en technieken.
 
 ## 3. Design
@@ -44,7 +44,7 @@ Buiten het aanmaken van tickets binnen Jira is er verder niet veel gebeurd wat d
 
 zie [Jira tickets](../Bestanden/jira-tickets-21-03-2023.png).
 
-### Volgde stap
+### Volgende stap
 Om de stap naar 'Proficient' te kunnen maken is er eerst code nodig waarop ik unit tests kan maken.\
 Zodra deze er zijn kan ik een pipeline maken om deze geautomatiseerd te testen en eventueel te deployen als dit van toepassing is.
 
@@ -53,11 +53,11 @@ Zodra deze er zijn kan ik een pipeline maken om deze geautomatiseerd te testen e
 De vragen in het projectplan heb ik omgezet met behulp van de Design Challenge en meerdere iteraties omgezet naar een sterke en duidelijke challenge waardoor het project een duidelijke doel heeft gekregen.
 Zie [Design challenge](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeksvragen/design%20challenge.md)
 
-Tevens heb ik voor voor elke subvraag de juiste onderzoeks strategie n moethode uitgezocht en onderbouwd.
+Tevens heb ik voor voor elke subvraag de juiste onderzoeksstrategie en methodes uitgezocht en onderbouwd.
 Zie [Projectplan - Onderzoeksvraag 2 BvD](https://github.com/S7HaMachineLearning/documentation#onderzoeksvraag-2-bvd)
 
-### Volgde stap
-Om de stap naar 'Proficient' te maken moet ik ook ander onderzoeks methoedes kunnen toepassen. 
+### Volgende stap
+Om de stap naar 'Proficient' te maken moet ik ook ander onderzoeksmethodes kunnen toepassen. 
 
 ## 7. Communication
 
@@ -79,5 +79,5 @@ Om nog beter bekent te geraken met machine learning heb ik een korte curses gevo
 Bij de bespreking van de laatste iteratie van het [projectplan](https://github.com/S7HaMachineLearning/documentation) hebben we goede feedback gekregen van de docenten.
 Ik heb op deze feedback gereflecteerd en hieruit zijn wat conclusies gekomen die verwerkt moeten worden, zie [Feedback - 23-23-2023](../Proces/Feedback.md#23-23-2023---groeps-feedback-op-project-rapport)
 
-### Volgde stap
+### Volgende stap
 Om de stap naar 'Proficient' te kunnen maken moet ik ander onderzoeksmethodes gebruiken en beschrijven.
