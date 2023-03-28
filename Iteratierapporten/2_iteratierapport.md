@@ -72,7 +72,7 @@ Ik heb door middel van 'Literature study' een onderzoek gedaan naar de bestaande
 dit om zo een beter inzicht te krijgen welke technieken/modellen aansluiten bij mijn hoofdvraag.
 [Link](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bram/1.%20Onderzoek%20-%20machine%20learning.md)
 
-Ook heb ik door middel van een 'Available product analysis' een onderzoek gedaan naar de bestaande oplossingen en technieken die gebruikt worden bij het maken van een GUI voor machine learning. [Link](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bram/2.%20Onderzoek%20-%20machine%20learning%20GUI.md)
+Ook heb ik door middel van een 'Available product analysis' een onderzoek gedaan naar de bestaande oplossingen en technieken die gebruikt worden bij het maken van een GUI voor machine learning. [Link](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bram/3.%20Onderzoeks%20-%20Available%20product%20analysis.md)
 
 Om nog beter bekent te geraken met machine learning heb ik een korte curses gevolgd op kaggle.com over machine learning, [Certificaat](../Bestanden/Bram_van_Deventer-Intro_to_Machine_Learning.png).
 
