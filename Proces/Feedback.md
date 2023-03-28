@@ -218,3 +218,20 @@ hoe kan het resultaat eerlijk is (van bepaalde kwaliteit)
 
 ### Feedback vanuit de docent
 `Geef nu even de focus aan de analyse en werk dan e.e.a. verder uit in het ontwerp en implementatie.`
+
+### Outcomes
+
+#### 1. Analysis
+`Hier willen we graag een stukje concrete invulling van zien, bijv. requirements. Op basis daarvan toon je een beginnend niveau aan. Hou in de gaten dat je analyse invloed kan hebben op beslissingen etc.`
+
+#### 5. Management
+`Er wordt gebruik gemaakt van Jira die je al eerder hebt ingericht. Later zullen vooral kwaliteitsstappen belangrijk.`
+
+#### 6. Judgement
+`Er is een design-challenge gemaakt. Daarbij hebben we het uitgebreid gehad over de onderzoeksvragen.`
+
+#### 7. Communication
+`Dat komt wel goed maar er liggen ook nog flink wat kansen (demo's, presentaties etc).`
+
+#### 8. Learning ability
+`De manier waarop je met feedback omgaat en de initiatieven die je ontplooit is zeker heel goed. We missen, ondanks de link, nog jouw available product analysis.`
