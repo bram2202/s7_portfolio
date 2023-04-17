@@ -71,8 +71,11 @@ Demo geven over gemaakte POC's. aan de klas.
 ## 8. Learning ability
 Een start gemaakt met het schrijven van de code voor de front-end en back-end in de vorm van twee POC's.\
 En hiermee kennis opgedaan over de gebruikte technieken, hoe een applicatie op te zetten.\
-zie [2. Advice](#2.-Advice)
+Zie [2. Advice](#2.-Advice)
 
 Hiermee heb ik een voor mij nieuwe onderzoeksmethodes gebruikt, namelijk de Workshop - Prototyping research methode.
+
+Op feedback op voorgaande iteratie heb ik gereflecteerd en verwerkt in de punten voor deze iteratie.\
+Zie [feedback iteratie 2](../Proces/Feedback.md#27-03-2023---feedback-op-iteratie-rapport-2)
 ### Volgende stap
 Om de stap naar 'Advanced' te kunnen maken moet ik ander meerder onderzoeksmethodes gebruiken en beschrijven.
