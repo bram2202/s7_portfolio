@@ -235,3 +235,48 @@ hoe kan het resultaat eerlijk is (van bepaalde kwaliteit)
 
 #### 8. Learning ability
 `De manier waarop je met feedback omgaat en de initiatieven die je ontplooit is zeker heel goed. We missen, ondanks de link, nog jouw available product analysis.`
+
+
+## Itter rapport 3 feedback - 24-04
+
+### Analysis
+use cases flow nummeren stappen toevoegen ipv verhaald.
+alt flow in standaard flow aangeven: 1 2 3 en dan alt flow 1.x
+
+### voor volgde stap
+acceptatie test maken. (V model)
+
+### Design
+tekstuele beschrijving van landschap diagram toevoegen,
+om zo verkeerde interpretatie van de lezer weg te nemen.
+
+### Judgement
+is de hoofdvraag opgelost?
+Kan ik de vertaalslag maken om dit te doen?
+overall conclusie, dat het concept werkt
+
+### Communication
+proficient demo gedaan
+
+### Learning
+methodes die nut hebben en er bij passen
+
+## Demo feedback
+Demo gedaan, vragen gehad over gebruik van Python en Ioniq, maar geen concrete feedback
+
+### Outcomes
+
+#### 1. Analysis
+`Denk na over een (acceptatie)testplan`
+
+#### 3. Design
+`Denk aan een korte toelichting op de modellen. `
+
+#### 4. Implementation
+`Er is al een PoC. Nu op naar de app zelf`
+
+#### 6. Judgement
+`Met het beantwoorden en beredeneren van de hoofdvraag kom je op Proficient.`
+
+#### 7. Communication
+`I.v.m. de demo nu naar Proficient`
