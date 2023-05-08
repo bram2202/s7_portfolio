@@ -6,12 +6,12 @@ De `-` in tabel geeft het niveau in de vorige iteratie aan, een maakt daarmee de
 |                    | Advanced | Proficient | Beginning | Orienting | Undefined |
 |--------------------|:--------:|:----------:|:---------:|:---------:|:---------:|
 | 1 Analysis         |          |            |     x     |     -     |           |
-| 2 Advice           |          |            |           |     x     |           |
+| 2 Advice           |          |            |     x     |     -     |           |
 | 3 Design           |          |            |           |     x     |     -     |
 | 4 Implementation   |          |            |           |     x     |     -     |
 | 5 Management       |          |            |     x     |           |           |
-| 6 Judgement        |          |     x      |     -     |           |           |
-| 7 Communication    |          |            |     x     |           |           |
+| 6 Judgement        |          |            |     x     |           |           |
+| 7 Communication    |          |     x      |     -     |           |           |
 | 8 Learning ability |          |     x      |     -     |           |           |
 
 ---
