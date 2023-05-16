@@ -280,3 +280,43 @@ Demo gedaan, vragen gehad over gebruik van Python en Ioniq, maar geen concrete f
 
 #### 7. Communication
 `I.v.m. de demo nu naar Proficient`
+
+## Itter rapport 4 feedback - 15-05
+
+### 1. Analysis
+wie is de actor en wat is een de systeem interactie?\
+Laat zien wat het systeem doet (meldingen tonen, controlles)
+b.v.: sensor bestaat al error --> uitzondering situatie, un-happy flow (alt flow)
+
+### 3. Design
+SensorId bij automation? waarom wel/niet.\
+Voortaan de uitleg/onderbouwen opschrijven.
+
+Schrijf toelichting en onderbouwingen van flows en seq diagram
+
+### 4. Implementation
+Mist API design.
+
+### 5. Management
+inzichtelijk maken op deps in pipeline.\
+checken of er vulnerabilities zijn in de gebruikte packages.
+
+### 6. Judgement
+is concreet, en zinvolle invulling van de hoofdvraag.
+ 
+### Algemeen
+zorg ervoor om process te volgen, documenteren.
+
+### Outcomes
+
+#### 1. Analysis
+`Denk aan de actor-systeem interactie. Denk ook eens na over de non-happy flow -> uitzonderingen of alternatieve scenario's`
+
+#### 2. Advice
+`De conclusies op de onderzoeksvragen vormen jouw advies. Op een later tijdstip kunnen nog adviezen volgen voor doorontwikkeling.`
+
+#### 3. Design
+`Denk aan onderbouwing van schema's en ontwerpen. Ook ontbreekt de API-documentatie`
+
+#### 4. Implementation
+`Denk aan de dependency's`
