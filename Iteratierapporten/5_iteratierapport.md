@@ -39,7 +39,10 @@ Deze is in te laden in [Swagger](https://editor.swagger.io/) om een visuele repr
 Voor het AA Backen project heb ik een extra pipeline toegevoegd die de gebruikte dependencies controleert op kwetsbaarheid en deze rapporteert.\
 De pipeline (Github action) is [hier](https://github.com/S7HaMachineLearning/AA_backend/blob/main/.github/workflows/lint_test.yml) te vinden, en een van de geslaagde runs is [hier](https://github.com/S7HaMachineLearning/AA_backend/actions/runs/5014355533) te vinden.
 
-Pipeline bevat audit stap
+En ook heb ik een start gemaakt met het front-end project dat gebruikt maakt van de API.\
+Het project is gebaseerd op de POC die ik eerder gemaakt heb.\
+Het project is [hier (AA_frontend)](https://github.com/S7HaMachineLearning/AA_frontend) te vinden.
+
 
 ## 5. Management
 Niet aangeraakt deze iteratie.
