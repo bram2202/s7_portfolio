@@ -1,6 +1,6 @@
 # Iteratie rapport 3
 
-Hieronder een overzicht van mijn voortgang in de tweede iteratie.\
+Hieronder een overzicht van mijn voortgang in de derde iteratie.\
 De `-` in tabel geeft het niveau in de vorige iteratie aan, een maakt daarmee de groei zichtbaar.
 
 |                    | Advanced | Proficient | Beginning | Orienting | Undefined |
