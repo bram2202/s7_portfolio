@@ -41,7 +41,9 @@ De pipeline (Github action) is [hier](https://github.com/S7HaMachineLearning/AA_
 
 En ook heb ik een start gemaakt met het front-end project dat gebruikt maakt van de API.\
 Het project is gebaseerd op de POC die ik eerder gemaakt heb.\
-Het project is [hier (AA_frontend)](https://github.com/S7HaMachineLearning/AA_frontend) te vinden.
+Op dit moment is alleen de eerste use-case geïmplementeerd, toevoegen van een HA sensor aan de applicatie.\
+Deze is [hier (AA_frontend)](https://github.com/S7HaMachineLearning/AA_frontend) te vinden.
+In het project heb ik ook een pipeline toegevoegd die de code build, lint en dependencies controleert op kwetsbaarheid.\ 
 
 
 ## 5. Management
