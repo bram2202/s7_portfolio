@@ -5,7 +5,7 @@ De `-` in tabel geeft het niveau in de vorige iteratie aan, een maakt daarmee de
 
 |                    | Advanced | Proficient | Beginning | Orienting | Undefined |
 |--------------------|:--------:|:----------:|:---------:|:---------:|:---------:|
-| 1 Analysis         |          |     x      |           |           |           |
+| 1 Analysis         |          |     x      |     -     |           |           |
 | 2 Advice           |          |     x      |           |           |           |
 | 3 Design           |          |     x      |     -     |           |           |
 | 4 Implementation   |          |     x      |     -     |           |           |
