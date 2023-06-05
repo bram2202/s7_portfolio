@@ -320,3 +320,27 @@ zorg ervoor om process te volgen, documenteren.
 
 #### 4. Implementation
 `Denk aan de dependency's`
+
+## Itter rapport 5 feedback - 05-06
+
+### 1. Analysis
+-
+
+### 3. Design
+Fast API heeft ingebouwde swagger.\
+keuzen van design is belangrijk voor onderbouwen. (belangrijk voor afstuderen)
+
+### 4. Implementation
+Demo front-end (met backend) met HA tonen om voortgang te laten zien.
+kwaliteitsbewaking (unit testing)
+
+### Outcomes
+#### 1. Analysis
+De use-cases zijn wel beschreven maar zijn qua stappen uit elkaar gehaald m.b.t. Actor en Systeem.\
+Dat maakt het wat lastiger om de scenario's te volgen, ook qua uitzonderingssituaties.
+
+#### 3. Design
+Jouw API documentation voldoet. Maar neem voor de volgende keer wel de ontwerpkeuzes mee in het verhaal. Die zijn erg belangrijk.
+
+#### 4. Implementation
+Laat een goed werkende implementatie zien en onderbouw dat. Hoe is de kwaliteit geborgd. 
