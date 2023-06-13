@@ -344,3 +344,9 @@ Jouw API documentation voldoet. Maar neem voor de volgende keer wel de ontwerpke
 
 #### 4. Implementation
 Laat een goed werkende implementatie zien en onderbouw dat. Hoe is de kwaliteit geborgd. 
+
+## Demo feedback - 13-06
+
+Vandaag demo late zien van front-end en back-end van de addon.\
+daarbij ook de unit test voor beiden projecten laten zien, en dat deze ook in de pipelines gedaan werden.\
+dit was voldoende om het laatste Criteria (Implementation) op Proficient te krijgen.
